@@ -1,0 +1,36 @@
+---
+title: "New York State Dams and Watershed Data"
+format: html
+---
+
+# New York State Dams and Watershed Data
+
+This webpage highlights the important data regarding dams in New York State, sourced from various agencies and resources. The map below visualizes key data points about the dams in the state.
+
+## Interactive Map
+
+### Dam Locations in New York State
+
+We have embedded an interactive ArcGIS Online map showcasing the dams in New York State. You can explore the map for further details on the dam locations and their attributes. For the purposes of this page, we're highlighting key areas of interest such as the Long Island dams and their watershed impacts.
+
+<!-- Embed ArcGIS Online Map --> <iframe width="100%" height="600px" src="https://www.arcgis.com/apps/dashboards/6d1a768bf3614632af08b8c7cdb2a695" frameborder="0" allowfullscreen></iframe>
+
+![](https://www.americanrivers.org/wp-content/uploads/2024/02/DamList2023_blog_02082024.png)
+
+## Data Sources and Citations
+
+Below are the references to the datasets and sources used for creating the interactive map and analysis of New York State dams.
+
+1.  **New York State Watersheds**\
+    New York State's Department of Environmental Conservation provides a comprehensive list of watersheds and relevant environmental data. This dataset helps us understand the flow of water and its impact on the regions surrounding the dams.
+
+    -   New York State Department of Environmental Conservation (NYS DEC): Watersheds and Water Bodies
+
+2.  **New York State Dams**\
+    The GIS data from New York State includes important details about the location and status of dams throughout the state. This data is crucial for tracking and analyzing the effects of dams on local ecosystems.
+
+    -   GIS Data from NYS: New York State Dams Dataset
+
+## Conclusion
+
+This page provides an overview of New York State’s dams and related watershed data. By exploring the interactive map and the datasets provided, we can better understand the impact of these dams on the environment, wildlife, and communities in the state.

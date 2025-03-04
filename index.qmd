@@ -1,0 +1,89 @@
+---
+title: "Rebuilding Dams in Suffolk County"
+format: html
+editor: visual
+header-includes:
+  - <link rel="stylesheet" href="styles.css">
+footer-includes:
+  - <script src="scripts.js"></script>
+---
+
+![](https://tbrnewsmedia.com/wp-content/uploads/2024/08/IMG_8570-scaled.jpg)
+
+### Preamble
+
+Many dams on Long Island were built decades ago for industrial, agricultural, or recreational purposes. However, changing environmental conditions, aging infrastructure, and evolving water management strategies have raised questions about whether certain dams should be rebuilt after destruction.
+
+### Open Letter to County Executive
+
+Dear County Executive **Edward P. Romaine**,
+
+I am writing to urge careful reconsideration of the proposed dam reconstruction efforts at Stonybrook Mill Pond and Stump Pond. While I understand the intention to restore these structures, I believe this approach poses significant risks to Long Island's ecological integrity and long-term sustainability.
+
+### Background
+
+This project focuses on the dams at Mill Pond in Stony Brook, New York, and Stump Pond in Smithtown, New York, which were destroyed in a storm in August 2024. The dam at Mill Pond has historically provided aesthetic and recreational benefits, but concerns about sediment accumulation and ecological disruption have emerged. Similarly, Stump Pond, a prominent feature supporting diverse wildlife, also raises issues related to water quality and hydrological alteration.
+
+### Key Considerations
+
+-   Environmental impact of rebuilding versus removal
+-   Hydrological changes and water quality concerns
+-   Effects on local wildlife and biodiversity
+-   Economic implications for Suffolk County
+-   Public and stakeholder interests
+
+### Comparison of Mill Pond and Stump Pond
+
+| Pond | Historical Purpose | Current Concerns |
+|----------------|-------------------|------------------------------------|
+| Mill Pond | Recreation & Aesthetics | Sediment Accumulation, Ecological Disruption |
+| Stump Pond | Wildlife Habitat | Water Quality, Hydrological Alteration |
+
+### Images of the Dam Destruction
+
+::: slideshow-container
+<img src="https://esassoc.com/wp-content/uploads/2021/10/Mill-Pond-Dam.jpg" class="active"/> <img src="https://tbrnewsmedia.com/wp-content/uploads/2024/08/IMG_2322-scaled.jpg"/> <img src="https://npr.brightspotcdn.com/7b/5e/c6b4c6df49b5804d8ad44f2fdc7c/53935297372-e90175615a-o.jpg"/> <img src="https://www.newsday.com/_next/image?url=https%3A%2F%2Fcdn.newsday.com%2Fimage-service%2Fversion%2Fc%3ANjE3NzYwMDktNmI3OC00%3AODNlMDExZDItMTk2MS00%2Flifklood240822.jpg%3Ff%3DLandscape%2B16%253A9%26w%3D770%26q%3D1&amp;w=1920&amp;q=80"/> <img src="https://tbrnewsmedia.com/wp-content/uploads/2024/08/IMG_1902-scaled.jpg"/>
+:::
+
+::: slideshow-controls
+<button onclick="prevSlide()">Previous</button> <button onclick="nextSlide()">Next</button>
+:::
+
+### Public Poll: Should the Dams Be Rebuilt?
+
+Do you think Suffolk County should rebuild the dams at Mill Pond and Stump Pond?
+
+<button id="yes-btn" onclick="vote(&#39;yes&#39;)">
+
+Yes
+
+</button>
+
+<button id="no-btn" onclick="vote(&#39;no&#39;)">
+
+No
+
+</button>
+
+<p id="poll-results">
+
+</p>
+
+### To Learn More, Watch Here:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XfJdTCmkoaA?si=JGVNHKH7gs0B-mk6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
+
+### Add Your Comment
+
+Please add your comment:
+
+```{=html}
+<textarea id="new-comment" cols="60" rows="5"></textarea>
+```
+
+<br> <button id="btn-post">Post</button>
+
+::: {#comment-container}
+:::
