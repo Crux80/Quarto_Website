@@ -13,7 +13,11 @@ This webpage highlights the important data regarding dams in New York State, sou
 
 We have embedded an interactive ArcGIS Online map showcasing the dams in New York State. You can explore the map for further details on the dam locations and their attributes. For the purposes of this page, we're highlighting key areas of interest such as the Long Island dams and their watershed impacts.
 
-<!-- Embed ArcGIS Online Map --> <iframe width="100%" height="600px" src="https://www.arcgis.com/apps/dashboards/6d1a768bf3614632af08b8c7cdb2a695" frameborder="0" allowfullscreen></iframe>
+<!-- Embed ArcGIS Online Map -->
+
+<iframe width="100%" height="600px" src="https://www.arcgis.com/apps/dashboards/6d1a768bf3614632af08b8c7cdb2a695" frameborder="0" allowfullscreen>
+
+</iframe>
 
 ![](https://www.americanrivers.org/wp-content/uploads/2024/02/DamList2023_blog_02082024.png)
 
@@ -30,6 +34,12 @@ Below are the references to the datasets and sources used for creating the inter
     The GIS data from New York State includes important details about the location and status of dams throughout the state. This data is crucial for tracking and analyzing the effects of dams on local ecosystems.
 
     -   GIS Data from NYS: New York State Dams Dataset
+
+3.  **Suffolk County GIS**\
+    Suffolk County GIS provides a comprehensive collection of geospatial datasets, including road networks, infrastructure, land use, and environmental features. This data is essential for spatial analysis and decision-making, particularly in assessing the impact of dam reconstruction on local communities and ecosystems. By leveraging Suffolk County GIS data, we can ensure accurate mapping and integration with other environmental and socio-economic datasets.
+
+4.  **Open Street Map**\
+    OpenStreetMap (OSM) is a global, crowd-sourced mapping platform that offers detailed and continuously updated geographic data. For this project, OSM data provides valuable insights into transportation networks, land cover, and points of interest. Its open-access nature allows for flexible integration with GIS tools, enhancing our ability to analyze infrastructure and accessibility changes related to dam reconstruction.
 
 ## Conclusion
 

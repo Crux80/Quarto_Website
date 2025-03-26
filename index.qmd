@@ -35,7 +35,7 @@ This project focuses on the dams at Mill Pond in Stony Brook, New York, and Stum
 ### Comparison of Mill Pond and Stump Pond
 
 | Pond | Historical Purpose | Current Concerns |
-|----------------|-------------------|------------------------------------|
+|----|----|----|
 | Mill Pond | Recreation & Aesthetics | Sediment Accumulation, Ecological Disruption |
 | Stump Pond | Wildlife Habitat | Water Quality, Hydrological Alteration |
 
@@ -46,7 +46,13 @@ This project focuses on the dams at Mill Pond in Stony Brook, New York, and Stum
 :::
 
 ::: slideshow-controls
-<button onclick="prevSlide()">Previous</button> <button onclick="nextSlide()">Next</button>
+<button onclick="prevSlide()">
+
+Previous
+
+</button>
+
+<button onclick="nextSlide()">Next</button>
 :::
 
 ### Public Poll: Should the Dams Be Rebuilt?

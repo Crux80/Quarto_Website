@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Long Island Conservation"
+  title: "Long Island's Dam Dilemma"
   navbar:
     left:
       - href: index.qmd
